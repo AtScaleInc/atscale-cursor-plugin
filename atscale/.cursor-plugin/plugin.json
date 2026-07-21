@@ -1,0 +1,10 @@
+{
+  "name": "atscale",
+  "displayName": "AtScale",
+  "description": "Query your AtScale semantic layer from Cursor.",
+  "author": {
+    "name": "AtScale",
+    "email": "mcp@atscale.com"
+  },
+  "logo": "assets/AtScale_Icon.png"
+}

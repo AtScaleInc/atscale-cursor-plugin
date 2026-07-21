@@ -1,0 +1,17 @@
+{
+  "name": "atscale-plugins",
+  "owner": {
+    "name": "AtScale",
+    "email": "mcp@atscale.com"
+  },
+  "metadata": {
+    "description": "AtScale plugins for Cursor"
+  },
+  "plugins": [
+    {
+      "name": "atscale",
+      "source": "./atscale",
+      "description": "Query your AtScale semantic layer from Cursor via the AtScale MCP server."
+    }
+  ]
+}
