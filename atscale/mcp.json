@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "atscale": {
+      "url": "${env:ATSCALE_MCP_URL}",
+      "auth": {
+        "CLIENT_ID": "atscale-mcp",
+        "CLIENT_SECRET": "${env:ATSCALE_MCP_CLIENT_SECRET}"
+      }
+    }
+  }
+}
