@@ -5,7 +5,7 @@
     "email": "mcp@atscale.com"
   },
   "metadata": {
-    "description": "AtScale plugins for Cursor"
+    "description": "AtScale semantic-layer plugins for Cursor."
   },
   "plugins": [
     {
