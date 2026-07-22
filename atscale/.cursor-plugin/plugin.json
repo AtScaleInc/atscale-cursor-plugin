@@ -1,7 +1,7 @@
 {
   "name": "atscale",
   "displayName": "AtScale",
-  "description": "Query governed AtScale metrics and definitions from Cursor via MCP.",
+  "description": "Query governed business metrics, definitions and context from Cursor via AtScale MCP.",
   "author": {
     "name": "AtScale",
     "email": "mcp@atscale.com"
@@ -25,7 +25,11 @@
     "ai accuracy",
     "deterministic ai",
     "multidimensional metrics",
-    "query optimization"
+    "query optimization",
+    "google bigquery",
+    "gcp",
+    "amazon redshift",
+    "microsoft azure"
   ],
   "logo": "assets/AtScale_Icon.png"
 }

@@ -1,6 +1,6 @@
 # AtScale for Cursor
 
-Ground Cursor's AI agent in your [AtScale](https://www.atscale.com) semantic layer so it reasons over governed metrics and trusted business definitions, not raw tables.
+Empower Cursor's AI agent with governed metrics and trusted business definitions for ALL of your enterprise data with [AtScale](https://www.atscale.com)'s Universal Semantic Layer.
 
 ## Prerequisites
 
