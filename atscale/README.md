@@ -1,6 +1,6 @@
 # AtScale for Cursor
 
-Connects Cursor to your [AtScale](https://www.atscale.com) semantic layer so agent queries are grounded in vetted business context.
+Empower Cursor's AI agent with governed metrics and trusted business definitions for ALL of your enterprise data with [AtScale](https://www.atscale.com)'s Universal Semantic Layer.
 
 ## Prerequisites
 

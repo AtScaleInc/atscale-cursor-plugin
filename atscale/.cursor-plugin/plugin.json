@@ -1,10 +1,35 @@
 {
   "name": "atscale",
   "displayName": "AtScale",
-  "description": "Query your AtScale semantic layer from Cursor.",
+  "description": "Query governed business metrics, definitions and context from Cursor via AtScale MCP.",
   "author": {
     "name": "AtScale",
     "email": "mcp@atscale.com"
   },
+  "keywords": [
+    "semantic layer",
+    "atscale",
+    "mcp",
+    "mcp server",
+    "governed metrics",
+    "ai agent data access",
+    "business metrics",
+    "data governance",
+    "natural language query",
+    "nlq",
+    "single source of truth",
+    "conversational bi",
+    "snowflake",
+    "databricks",
+    "context for ai",
+    "ai accuracy",
+    "deterministic ai",
+    "multidimensional metrics",
+    "query optimization",
+    "google bigquery",
+    "gcp",
+    "amazon redshift",
+    "microsoft azure"
+  ],
   "logo": "assets/AtScale_Icon.png"
 }
