@@ -13,10 +13,10 @@ Empower Cursor's AI agent with governed metrics and trusted business definitions
 The plugin requires two environment variables to authenticate with OAuth:
 
 - `ATSCALE_MCP_URL` (e.g., `https://your-atscale-domain/mcp`)
-- `ATSCALE_MCP_CLIENT_ID`
+- `ATSCALE_MCP_CLIENT_SECRET`
   - This is the secret for the `atscale-mcp` client. You can find it by going to your AtScale instance's Keycloak page > Clients > `atscale-mcp` > Credentials. 
 
-Set these in your path, e.g. by setting the following in `.zshrc`:
+Set these in your environment, e.g. by setting the following in `.zshrc`:
 
 ```
 export ATSCALE_MCP_URL=https://<your-atscale-domain>/mcp
