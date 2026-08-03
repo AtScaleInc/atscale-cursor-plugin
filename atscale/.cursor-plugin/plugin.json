@@ -31,5 +31,21 @@
     "amazon redshift",
     "microsoft azure"
   ],
-  "logo": "assets/AtScale_Icon.png"
+  "logo": "assets/AtScale_Icon.png",
+  "variables": {
+    "type": "object",
+    "properties": {
+      "ATSCALE_MCP_URL": {
+        "type": "string",
+        "title": "AtScale MCP Server URL",
+        "description": "URL of the AtScale MCP server (e.g., `https://<your-atscale-domain>/mcp`)."
+      },
+      "ATSCALE_MCP_CLIENT_SECRET": {
+        "type": "string",
+        "title": "AtScale MCP Client Secret",
+        "description": "Client secret for the AtScale MCP server. See your AtScale instance's Keycloak page > Clients > `atscale-mcp` > Credentials."
+      }
+    },
+    "required": ["ATSCALE_MCP_URL", "ATSCALE_MCP_CLIENT_SECRET"]
+  }
 }
