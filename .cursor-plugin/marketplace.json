@@ -1,8 +1,7 @@
 {
   "name": "atscale-plugins",
   "owner": {
-    "name": "AtScale",
-    "email": "mcp@atscale.com"
+    "name": "AtScale"
   },
   "metadata": {
     "description": "AtScale Universal Semantic-Layer plugins for Cursor."
