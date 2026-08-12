@@ -3,8 +3,7 @@
   "displayName": "AtScale",
   "description": "Query governed business metrics, definitions and context from Cursor via AtScale MCP.",
   "author": {
-    "name": "AtScale",
-    "email": "mcp@atscale.com"
+    "name": "AtScale"
   },
   "keywords": [
     "semantic layer",
