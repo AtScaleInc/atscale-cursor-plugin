@@ -22,4 +22,4 @@ Once you authenticate the MCP, you're ready to use the plugin.
 
 Existing AtScale customers can go to [help.atscale.com](https://help.atscale.com) for support. 
 
-Learn more about the AtScale Semantic Layer at [atscale.com](https://www.atscale.com/).
+Learn more about the AtScale Semantic Layer at [atscale.com](https://www.atscale.com).
